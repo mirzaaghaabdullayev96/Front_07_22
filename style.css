@@ -1,0 +1,58 @@
+.my_header_container a {
+  color: white !important;
+}
+
+.my_header_container header {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  margin-bottom: 0px !important;
+  border: none !important;
+}
+
+.my_header_container span {
+  color: white;
+}
+.my_header_container {
+  background-color: #3c3e4a;
+}
+
+.my_dropdown a {
+  color: black !important;
+}
+
+.carousel {
+  background-color: #3c3e4a;
+}
+.my_button-in-carousel {
+  border: 2px solid #ef6603;
+  border-radius: 50px;
+  padding: 12px 32px;
+}
+
+.my_carousel {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.my_carousel h3,
+.my_carousel p,
+.my_carousel a {
+  color: white !important;
+}
+
+#pricing ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+#pricing .my_btn-buy {
+    text-decoration: none;
+    color:white;
+    background-color: #ef6603;
+    padding: 8px 35px 10px 35px;
+}
+
+.na {
+  text-decoration: line-through;
+  color:color-mix(in srgb, #444444, transparent 40%)
+}
